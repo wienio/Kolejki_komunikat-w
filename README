@@ -2,5 +2,6 @@
 Projekt
 
 Program Wyslij.c służy do wysyłania wyrazu do systemu kolejek komunikatów, a Odbierz.c do odbierania tych komunikatów pod warunkiem, że jest weekend (pt,sob,nd).
+Następnie odpalany jest słownik języka polskiego aspell i sprawdza wyraz.
 
 Odpalanie makefile za pomocą komendy "make all" !!
