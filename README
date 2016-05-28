@@ -2,3 +2,5 @@
 Projekt
 
 Program Send.c służy do wysyłania wyrazu do systemu kolejek komunikatów, a Odbierz.c do odbierania tych komunikatów pod warunkiem, że jest weekend (pt,sob,nd).
+
+Odpalanie makefile za pomocą komendy "make all" !!
